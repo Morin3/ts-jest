@@ -134,7 +134,7 @@
     "jest-snapshot-serializer-raw": "^1.2.0",
     "js-yaml": "latest",
     "json-schema-to-typescript": "^13.1.2",
-    "lint-staged": "latest",
+    "lint-staged": "16.0.0",
     "prettier": "^2.8.8",
     "typescript": "~5.5.3"
   },
